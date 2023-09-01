@@ -1,6 +1,8 @@
 # quiz_app
 
-A new Flutter project.
+A basic Flutter project for revisiting Dart and Flutter fundamentals by creating a simple quiz app.
+
+<img src="1.png" width="120" hspace = "40"> <img src="2.png" width="120" hspace = "40"> <img src="3.png" width="120" hspace = "40">
 
 ## Getting Started
 
